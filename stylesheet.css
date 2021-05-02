@@ -51,6 +51,16 @@ li {
   
 }
 
+.bms {
+  border-bottom: 2px solid #1f1e33;
+   font-size:20px;
+  
+  padding-bottom:5px;
+  
+  margin-bottom:20px;
+  
+}
+
 .contact {
   border-bottom: 2px solid #1f1e33;
    font-size:20px;
